@@ -1,5 +1,4 @@
 # reservation_system
-
 一個簡單的 CLI「遊戲預約系統」，使用 SQLite 儲存預約狀態。
 
 ## 功能
@@ -9,3 +8,12 @@
 - 結束：`結束`
 
 ## 專案結構
+reservation_system/
+├─ app.py
+├─ reservation_db.py
+├─ README.md
+└─ .gitignore
+
+## 如何執行
+```bash
+python app.py
